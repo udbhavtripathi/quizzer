@@ -91,7 +91,7 @@ def main():
                 
                 for i in range(int(num_question/20)):
 
-                    print(i)
+                    
 
                     
                     retry = True
