@@ -8,6 +8,7 @@ from langchain.chains import LLMChain
 import concurrent.futures
 import re
 import json
+import pandas as pd
 
 from helper_functions.quiz_maker import qanda_maker
 from dotenv import load_dotenv
@@ -77,7 +78,7 @@ def main():
     language = st.text_input("Enter the language in which you want to generate questions")
     #4
     level_options = [1,2,3,4,5,6,7,8,9,10]
-    level_dropdown = st.selectbox('Level of course', level_options)
+    level_dropdown = st.selectbox('Level of questions', level_options)
   
 
 
@@ -133,7 +134,25 @@ def main():
 
                         
       
+        # Create a DataFrame from the final_output JSON
+        data = pd.DataFrame(final_output["questions"])
+        data['topic_name'] = topic_name
+        data['language'] = language
+        data['level'] = level_dropdown
+
+
+        # if st.button('Save CSV file'):
+    
         
+        csv_data = data.to_csv(index=False)
+
+        st.write("Hit download to save the datatset in the CSV format")
+        
+        with st.empty():            
+            st.download_button(label='Download CSV data', data=csv_data, file_name=f'data_{topic_name}_{language}_{level_dropdown}.csv')
+        
+            
+    
 
 
 if __name__ == "__main__":
