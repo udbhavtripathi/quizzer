@@ -99,10 +99,10 @@ def main():
                     
                             module_output = qanda_maker(topic_name, language, level_dropdown)
 
-                            with open(f'module_output_{i}.txt', 'w') as file:
-                                file.write(module_output)
+                            # with open(f'module_output_{i}.txt', 'w') as file:
+                            #     file.write(module_output)
 
-                            print("AT I :", i)
+                            # print("AT I :", i)
                             
 
                             module_output = json.loads(module_output)
