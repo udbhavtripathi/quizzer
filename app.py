@@ -89,9 +89,7 @@ def main():
                 
                 final_output = {"questions": []}
                 
-                for i in range(int(num_question/20)):
-
-                    
+                for i in range(int(num_question/20)):                    
 
                     
                     retry = True
