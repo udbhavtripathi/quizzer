@@ -1,142 +1,2455 @@
 {
     "questions": [
         {
-            "question": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1",
+            "question": "Who is known as the 'Father of Cricket'?",
             "options": [
-                "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95 \u0bae\u0bb2\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
-                "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
-                "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd"
+                "Sachin Tendulkar",
+                "Ian Botham",
+                "W.G. Grace"
             ],
-            "correct_answer": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd"
+            "correct_answer": "W.G. Grace"
         },
         {
-            "question": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1 \u0b8e\u0ba4\u0bc1?",
+            "question": "Which country won the first cricket World Cup in 1975?",
             "options": [
-                "1877",
-                "1887",
-                "1897"
+                "Australia",
+                "West Indies",
+                "England"
             ],
-            "correct_answer": "1877"
+            "correct_answer": "West Indies"
         },
         {
-            "question": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0ba4\u0bc1 \u0b95\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bbe?",
+            "question": "What is the maximum number of players allowed in a cricket team?",
             "options": [
-                "\u0bb5\u0bb2\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
-                "\u0b87\u0b9f\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
-                "\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0ba4\u0bbe\u0b95 \u0b92\u0bb0\u0bc1\u0bb5\u0ba9\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0bb5\u0bc7\u0bb1\u0bc1 \u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bb5\u0bc1\u0bae\u0bcd"
+                "11",
+                "10",
+                "12"
             ],
-            "correct_answer": "\u0bb5\u0bb2\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd"
+            "correct_answer": "11"
         },
         {
-            "question": "\u0b92\u0bb0\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0b95\u0bae\u0bbe\u0ba9 \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8?",
+            "question": "What are the two ends of a cricket pitch called?",
             "options": [
-                "12",
-                "13",
-                "14"
+                "Stumps",
+                "Wickets",
+                "Creases"
             ],
-            "correct_answer": "13"
+            "correct_answer": "Creases"
         },
         {
-            "question": "\u0b92\u0bb0\u0bc1 \u0bae\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba3\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8 \u0bb5\u0bc7\u0bb2\u0bc8\u0b95\u0bb3\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0b95\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba3\u0bbf\u0b95\u0bb2\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1. \u0b87\u0ba4\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb1\u0bbe\u0b95 \u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0bb0\u0bc1 \u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0ba3\u0bbf\u0b95\u0bb2\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1. \u0b87\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0b8e\u0ba4\u0bc1\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
+            "question": "What is the duration of a Test match in cricket?",
             "options": [
-                "\u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf",
-                "\u0bb5\u0bb0 \u0b95\u0bb0\u0bc1\u0bb5\u0bbf",
-                "\u0b85\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf"
+                "4 days",
+                "5 days",
+                "6 days"
             ],
-            "correct_answer": "\u0bb5\u0bb0 \u0b95\u0bb0\u0bc1\u0bb5\u0bbf"
+            "correct_answer": "5 days"
         },
         {
-            "question": "\u0b92\u0bb0\u0bc1 \u0bb5\u0bbf\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0baa\u0bcd \u0b90\u0b9f\u0bbf \u0b85\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0b8e\u0ba4\u0bc1?",
+            "question": "Which country has won the most number of cricket World Cups?",
             "options": [
-                "\u0b9a\u0bae\u0bcd\u0baa\u0bb3 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-                "\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-                "\u0b85\u0ba3\u0bbf\u0b95\u0bb2\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd"
+                "Australia",
+                "India",
+                "West Indies"
             ],
-            "correct_answer": "\u0b85\u0ba3\u0bbf\u0b95\u0bb2\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd"
+            "correct_answer": "Australia"
         },
         {
-            "question": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc7\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0baa\u0bb0\u0bcd \u0b86\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bcb\u0ba9\u0bbf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b8f\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bae\u0bbf\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95 \u0baa\u0bc7\u0b9a \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b85\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+            "question": "What is the maximum number of overs a bowler can bowl in a One Day International (ODI) cricket match?",
             "options": [
-                "\u0b86\u0bb3\u0bbe\u0ba9\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-                "\u0bb5\u0bb2\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bbe\u0ba9\u0bc7 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-                "\u0b87\u0b9f\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd"
+                "10",
+                "20",
+                "15"
             ],
-            "correct_answer": "\u0b87\u0b9f\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd"
+            "correct_answer": "10"
         },
         {
-            "question": "\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbe-\u0bb0\u0bb8\u0bcd\u0ba4\u0ba9\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8e\u0ba4\u0bc1?",
+            "question": "What is the term used for a batsman being dismissed on the first ball he faces?",
             "options": [
-                "2006",
-                "2007",
-                "2008"
+                "Golden duck",
+                "Silver duck",
+                "Bronze duck"
             ],
-            "correct_answer": "2007"
+            "correct_answer": "Golden duck"
         },
         {
-            "question": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0baf \u0bae\u0bbe\u0bb1\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bc7\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0b95\u0bae\u0bbe\u0ba9 \u0baa\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0ba8\u0bc1\u0ba3\u0bcd\u0ba3\u0bb1\u0bbf\u0bb5\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+            "question": "Which player has scored the highest individual score in Test cricket?",
             "options": [
-                "\u0ba4\u0bc2\u0bb0\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb1\u0bbe\u0ba4 \u0bb5\u0bc7\u0ba4\u0bbf",
-                "\u0b9f\u0bbf\u0b9a\u0bbf\u0b9a\u0ba9\u0bcd \u0bae\u0bc7\u0ba9\u0bcd\u0b9f\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb1\u0bbe\u0ba4 \u0bb5\u0bc7\u0ba4\u0bbf",
-                "\u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb1\u0bbe\u0ba4 \u0bb5\u0bc7\u0ba4\u0bbf"
+                "Sachin Tendulkar",
+                "Brian Lara",
+                "Matthew Hayden"
             ],
-            "correct_answer": "\u0ba4\u0bc2\u0bb0\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb1\u0bbe\u0ba4 \u0bb5\u0bc7\u0ba4\u0bbf"
+            "correct_answer": "Brian Lara"
         },
         {
-            "question": "\u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd \u0b86\u0b9f\u0bbf\u0ba9 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b8e\u0ba4\u0bc1?",
+            "question": "Who holds the record for hitting the most number of sixes in international cricket?",
             "options": [
-                "1841",
-                "1842",
-                "1843"
+                "Rohit Sharma",
+                "Chris Gayle",
+                "Shahid Afridi"
             ],
-            "correct_answer": "1842"
+            "correct_answer": "Chris Gayle"
         },
         {
-            "question": "\u0b85\u0b9a\u0bbe\u0b95\u0bbf \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0b92\u0bb0\u0bc1 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd?",
+            "question": "What is the distance between the popping crease and the stumps in cricket?",
             "options": [
-                "\u0b93\u0ba9\u0bc7 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd",
-                "\u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b89\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bcb\u0bae\u0bcd",
-                "\u0b92\u0bb0\u0bc1 \u0bae\u0bc8\u0baf\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bcb\u0bae\u0bcd"
+                "17 yards",
+                "20 yards",
+                "22 yards"
             ],
-            "correct_answer": "\u0b92\u0bb0\u0bc1 \u0bae\u0bc8\u0baf\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bcb\u0bae\u0bcd"
+            "correct_answer": "22 yards"
         },
         {
-            "question": "\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd?",
+            "question": "What is the term used for a bowler taking three wickets in consecutive deliveries?",
             "options": [
-                "\u0b9e\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-                "\u0b9e\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baa\u0bcd \u0baa\u0ba3\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-                "\u0b85\u0ba3\u0bbf\u0b95\u0bb2\u0ba9\u0bcd, \u0ba4\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0b95\u0b9f\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bcd \u0b87\u0bb5\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9"
+                "Hat-trick",
+                "Trifecta",
+                "Three-peat"
             ],
-            "correct_answer": "\u0b9e\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd"
+            "correct_answer": "Hat-trick"
         },
         {
-            "question": "\u0baa\u0bc1\u0bb0\u0b9f\u0bcd\u0b9f\u0bbe\u0b9a\u0bbf \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b86\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b8f\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1 \u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd?",
+            "question": "Which country was the first to host a day-night Test match?",
             "options": [
-                "\u0ba4\u0bc1\u0bb0\u0bcb\u0ba3 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-                "\u0b87\u0b9f\u0ba4\u0bc1 \u0b95\u0bc8 \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-                "\u0baa\u0bbe\u0bb0\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbe\u0bb3\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf"
+                "Australia",
+                "England",
+                "New Zealand"
             ],
-            "correct_answer": "\u0ba4\u0bc1\u0bb0\u0bcb\u0ba3 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf"
+            "correct_answer": "Australia"
         },
         {
-            "question": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b85\u0ba3\u0bbf \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u0ba9\u0bc1 \u0b89\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe?",
+            "question": "In cricket, what is the term used for a fielding position behind the wicket-keeper?",
             "options": [
-                "\u0ba4\u0bc2\u0bb0\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bae\u0bcd",
-                "\u0bb5\u0bc7\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-                "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bbe\u0b95 \u0b86\u0b9f\u0bbf \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf"
+                "Slip",
+                "Point",
+                "Gully"
             ],
-            "correct_answer": "\u0ba4\u0bc2\u0bb0\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bae\u0bcd"
+            "correct_answer": "Slip"
         },
         {
-            "question": "\u0baa\u0bc1\u0b95\u0bb4\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0ba8\u0bcd\u0ba4 \u0b85\u0ba3\u0bbf \u0b8e\u0ba4\u0bc1?",
+            "question": "What is the term used for a batsman scoring 100 runs in an innings?",
             "options": [
-                "\u0baa\u0bc1\u0bb5\u0ba9\u0b95\u0bb0\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba3\u0bbf",
-                "\u0bae\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0b86\u0ba3\u0bcd\u0b9f\u0baa\u0bcd \u0b85\u0ba3\u0bbf",
-                "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd \u0b85\u0ba3\u0bbf"
+                "Century",
+                "Decade",
+                "Millennium"
             ],
-            "correct_answer": "\u0baa\u0bc1\u0bb5\u0ba9\u0b95\u0bb0\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba3\u0bbf"
+            "correct_answer": "Century"
         },
         {
-            "question": "\u0b90\u0baa\u0bbf\u0b8e\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1 \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bcd\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9?",
+            "question": "In cricket, what is the term used for a delivery that bounces twice before reaching the batsman?",
+            "options": [
+                "No ball",
+                "Wide",
+                "Dead ball"
+            ],
+            "correct_answer": "Dead ball"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the term used for a dismissal in cricket where the batsman is caught out by the wicket-keeper?",
+            "options": [
+                "Stumped",
+                "Run out",
+                "Caught and bowled"
+            ],
+            "correct_answer": "Caught and bowled"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy titles?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who is currently the number one ranked Test batsman in the world according to the ICC rankings?",
+            "options": [
+                "Steve Smith",
+                "Virat Kohli",
+                "Kane Williamson"
+            ],
+            "correct_answer": "Steve Smith"
+        },
+        {
+            "question": "What is the term used for a delivery in cricket that is wide of the batsman and does not count as a legitimate ball?",
+            "options": [
+                "No ball",
+                "Wide",
+                "Dead ball"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cup titles?",
+            "options": [
+                "Australia",
+                "India",
+                "Pakistan"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the maximum number of players in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the term used for a dismissal in cricket where the bowler dismisses the batsman without the help of any fielder?",
+            "options": [
+                "Caught",
+                "Stumped",
+                "Bowled"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "Which country won the first-ever Cricket World Cup in 1975?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "375",
+                "400",
+                "452"
+            ],
+            "correct_answer": "452"
+        },
+        {
+            "question": "How many balls are bowled in an over?",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "What is the term used for a score of zero by a batsman in an innings?",
+            "options": [
+                "Duck",
+                "Blank",
+                "Zero"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which country has the highest number of registered cricket players?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) match?",
+            "options": [
+                "40",
+                "50",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Which country won the ICC Cricket World Cup in 2019?",
+            "options": [
+                "India",
+                "England",
+                "New Zealand"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the Ashes series between England and Australia?",
+            "options": [
+                "The Ashes Trophy",
+                "The Urn",
+                "The Ashes Cup"
+            ],
+            "correct_answer": "The Urn"
+        },
+        {
+            "question": "Who holds the record for the highest number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which country hosted the first-ever Cricket World Cup in 1975?",
+            "options": [
+                "Australia",
+                "England",
+                "West Indies"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term used for a batsman getting out by hitting the ball directly to a fielder without it touching the ground?",
+            "options": [
+                "Caught",
+                "Run out",
+                "Hit wicket"
+            ],
+            "correct_answer": "Caught"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "20 yards",
+                "22 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "What is the term used for a delivery that spins sharply after bouncing?",
+            "options": [
+                "Googly",
+                "Doosra",
+                "Leg break"
+            ],
+            "correct_answer": "Leg break"
+        },
+        {
+            "question": "Which country won the ICC Champions Trophy in 2017?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "Pakistan"
+        },
+        {
+            "question": "What is the term used for a batsman being dismissed by the wicketkeeper when he is outside his crease?",
+            "options": [
+                "Stumped",
+                "Run out",
+                "Hit wicket"
+            ],
+            "correct_answer": "Stumped"
+        },
+        {
+            "question": "Which of the following is NOT a type of cricket format?",
+            "options": [
+                "Test cricket",
+                "Twenty20",
+                "Super Over"
+            ],
+            "correct_answer": "Super Over"
+        },
+        {
+            "question": "What is the name of the international cricket stadium in Mumbai, India?",
+            "options": [
+                "Eden Gardens",
+                "M. Chinnaswamy Stadium",
+                "Wankhede Stadium"
+            ],
+            "correct_answer": "Wankhede Stadium"
+        },
+        {
+            "question": "What is the maximum number of players in a cricket team?",
+            "options": [
+                "10",
+                "11",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score ever achieved in a Test match?",
+            "options": [
+                "375",
+                "400",
+                "500"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most ICC Cricket World Cup titles?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the shape of a cricket ground?",
+            "options": [
+                "Oval",
+                "Rectangle",
+                "Circle"
+            ],
+            "correct_answer": "Oval"
+        },
+        {
+            "question": "What is the total number of players in the field during a cricket match?",
+            "options": [
+                "9",
+                "10",
+                "11"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) cricket match?",
+            "options": [
+                "40",
+                "50",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "What is the duration of a test match?",
+            "options": [
+                "2 days",
+                "3 days",
+                "5 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "What is the name of the international cricket governing body?",
+            "options": [
+                "ICC",
+                "BCCI",
+                "ECB"
+            ],
+            "correct_answer": "ICC"
+        },
+        {
+            "question": "Who holds the record for the fastest century in One Day Internationals (ODIs)?",
+            "options": [
+                "Sachin Tendulkar",
+                "AB de Villiers",
+                "Chris Gayle"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "What is the term used for a delivery that goes wide outside the batsman's reach?",
+            "options": [
+                "Wide ball",
+                "No ball",
+                "Full toss"
+            ],
+            "correct_answer": "Wide ball"
+        },
+        {
+            "question": "Which of the following is not a cricket fielding position?",
+            "options": [
+                "Silly point",
+                "Long on",
+                "Midfield"
+            ],
+            "correct_answer": "Midfield"
+        },
+        {
+            "question": "What is the maximum number of overs a bowler can bowl in a T20 International match?",
+            "options": [
+                "3",
+                "4",
+                "6"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "What is the term used for a batsman being dismissed without scoring any runs?",
+            "options": [
+                "Golden duck",
+                "Silver duck",
+                "Bronze duck"
+            ],
+            "correct_answer": "Golden duck"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ever Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the duration of a T20 International match?",
+            "options": [
+                "1 hour",
+                "2 hours",
+                "3 hours"
+            ],
+            "correct_answer": "3 hours"
+        },
+        {
+            "question": "What is the term used for a delivery bowled by a spinner which spins sharply?",
+            "options": [
+                "Doosra",
+                "Googly",
+                "Sweeper"
+            ],
+            "correct_answer": "Doosra"
+        },
+        {
+            "question": "Who has scored the highest individual score in a One Day International (ODI) match?",
+            "options": [
+                "Rohit Sharma",
+                "Martin Guptill",
+                "Virender Sehwag"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "What is the term used for a ball that is hit outside the boundary without bouncing?",
+            "options": [
+                "Four",
+                "Six",
+                "Boundary"
+            ],
+            "correct_answer": "Six"
+        },
+        {
+            "question": "Which country has won the most ICC Champions Trophy titles?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Who is known as the 'Master Blaster' in cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first-ever Cricket World Cup?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "Which player holds the record for the highest individual score in international cricket?",
+            "options": [
+                "Virender Sehwag",
+                "Rohit Sharma",
+                "Brian Lara"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "What is the term used to describe scoring 100 runs in cricket?",
+            "options": [
+                "Century",
+                "Fifty",
+                "Double Century"
+            ],
+            "correct_answer": "Century"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in international cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Anil Kumble",
+                "Shane Warne"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Rohit Sharma",
+                "Shikhar Dhawan",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country has won the most number of Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used to describe a delivery in cricket that spins sharply after bouncing?",
+            "options": [
+                "Googly",
+                "Leg break",
+                "Off break"
+            ],
+            "correct_answer": "Leg break"
+        },
+        {
+            "question": "Who holds the record for the fastest century in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "AB de Villiers",
+                "Shahid Afridi"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "Which country won the 2019 ICC Cricket World Cup?",
+            "options": [
+                "England",
+                "New Zealand",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term used to describe a dismissal in cricket where the batsman is out without scoring any runs?",
+            "options": [
+                "Duck",
+                "Golden duck",
+                "Silver duck"
+            ],
+            "correct_answer": "Golden duck"
+        },
+        {
+            "question": "Who is the highest run-scorer in Test cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Alastair Cook"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which player has the most number of sixes in international cricket?",
+            "options": [
+                "Rohit Sharma",
+                "Chris Gayle",
+                "MS Dhoni"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "What is the term used to describe a play in cricket where the ball is hit over the boundary without touching the ground?",
+            "options": [
+                "Four",
+                "Six",
+                "Boundary"
+            ],
+            "correct_answer": "Six"
+        },
+        {
+            "question": "Who is the only player to score 10,000 runs in ODIs?",
+            "options": [
+                "Sachin Tendulkar",
+                "Kumar Sangakkara",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has the highest number of test match wins?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used to describe a dismissal in cricket where the bowler dismisses the batsman by hitting the wickets directly?",
+            "options": [
+                "Bowled",
+                "Caught",
+                "Run out"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "Which player has the most number of runs in a single IPL season?",
+            "options": [
+                "Virat Kohli",
+                "David Warner",
+                "Chris Gayle"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country is known as the 'home of cricket'?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who is the fastest bowler in the history of cricket?",
+            "options": [
+                "Brett Lee",
+                "Shoaib Akhtar",
+                "Mitchell Johnson"
+            ],
+            "correct_answer": "Shoaib Akhtar"
+        },
+        {
+            "question": "Who is considered the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "9",
+                "11",
+                "13"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in a Test match?",
+            "options": [
+                "365",
+                "400",
+                "501"
+            ],
+            "correct_answer": "501"
+        },
+        {
+            "question": "What is the name of the international cricket governing body?",
+            "options": [
+                "ICC",
+                "BCCI",
+                "ECB"
+            ],
+            "correct_answer": "ICC"
+        },
+        {
+            "question": "Which country won the first Cricket World Cup?",
+            "options": [
+                "Australia",
+                "West Indies",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of overs in a T20 International match?",
+            "options": [
+                "20",
+                "50",
+                "10"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "What is the term for a batsman getting out without scoring a run?",
+            "options": [
+                "Duck",
+                "Dot",
+                "Runout"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "How many stumps are there in a cricket wicket?",
+            "options": [
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "What is the longest format of the game known as?",
+            "options": [
+                "ODI",
+                "T20",
+                "Test"
+            ],
+            "correct_answer": "Test"
+        },
+        {
+            "question": "What is the name of the cricket ball used in international matches?",
+            "options": [
+                "Duke",
+                "SG",
+                "Kookaburra"
+            ],
+            "correct_answer": "Kookaburra"
+        },
+        {
+            "question": "Which country has won the most number of Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the Ashes series?",
+            "options": [
+                "The Chappell-Hadlee Trophy",
+                "The Border-Gavaskar Trophy",
+                "The Urn"
+            ],
+            "correct_answer": "The Urn"
+        },
+        {
+            "question": "What is the name of the cricket ground located in Lord's, London?",
+            "options": [
+                "Wankhede Stadium",
+                "MCG",
+                "Lord's Cricket Ground"
+            ],
+            "correct_answer": "Lord's Cricket Ground"
+        },
+        {
+            "question": "What is the term for a bowled delivery that goes past the batsman without touching anything?",
+            "options": [
+                "Wide",
+                "No ball",
+                "Bye"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Which player has the highest number of Test wickets in cricket history?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "How many runs are awarded for hitting the ball over the boundary without it touching the ground?",
+            "options": [
+                "2",
+                "4",
+                "6"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "What is the term used for a batsman getting out by hitting the ball straight into the hands of a fielder?",
+            "options": [
+                "Caught",
+                "Stumped",
+                "Runout"
+            ],
+            "correct_answer": "Caught"
+        },
+        {
+            "question": "Which country has won the most number of T20 World Cups?",
+            "options": [
+                "India",
+                "West Indies",
+                "Australia"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used for a batsman scoring 100 runs in an innings?",
+            "options": [
+                "Half-century",
+                "Century",
+                "Double century"
+            ],
+            "correct_answer": "Century"
+        },
+        {
+            "question": "Which player has scored the most runs in international cricket?",
+            "options": [
+                "Ricky Ponting",
+                "Virat Kohli",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Who is considered the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "10",
+                "11",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "364",
+                "375",
+                "400"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which player has scored the most runs in a single Test innings?",
+            "options": [
+                "Brian Lara",
+                "Virender Sehwag",
+                "Matthew Hayden"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "What is the duration of a Test match?",
+            "options": [
+                "2 days",
+                "3 days",
+                "5 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "In limited-overs cricket, how many overs are bowled in each innings?",
+            "options": [
+                "20",
+                "40",
+                "50"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Which country won the first-ever T20 World Cup?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "How many runs does a batsman score when hitting the ball over the boundary without it touching the ground?",
+            "options": [
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "What is the term used for dismissing a batsman by hitting the stumps with the ball?",
+            "options": [
+                "Bowled",
+                "Caught",
+                "Run out"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "Which country has won the most ICC Champions Trophy titles?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used for a delivery that spins sharply after bouncing, often deceiving the batsman?",
+            "options": [
+                "Leg spin",
+                "Off spin",
+                "Doosra"
+            ],
+            "correct_answer": "Doosra"
+        },
+        {
+            "question": "Which player has the most number of international centuries in his career?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the term used for the action of a batsman hitting the ball successfully and scoring runs?",
+            "options": [
+                "Boundary",
+                "Wicket",
+                "Run"
+            ],
+            "correct_answer": "Boundary"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cup titles?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used for a delivery that bounces more than expected after pitching?",
+            "options": [
+                "Yorker",
+                "Bouncer",
+                "Slower ball"
+            ],
+            "correct_answer": "Bouncer"
+        },
+        {
+            "question": "Which player has hit the fastest century in a One Day International (ODI) match?",
+            "options": [
+                "Virender Sehwag",
+                "AB de Villiers",
+                "Chris Gayle"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "Which country has won the most number of ICC World Twenty20 titles?",
+            "options": [
+                "India",
+                "West Indies",
+                "Pakistan"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used for a batsman being declared out without scoring any runs?",
+            "options": [
+                "Duck",
+                "Single",
+                "No ball"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Who is considered the father of modern cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Sir Don Bradman",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sir Don Bradman"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "10",
+                "11",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "How many innings are played in a game of cricket?",
+            "options": [
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "question": "What do you call a bowler who consistently delivers the ball with their left hand?",
+            "options": [
+                "Right-arm bowler",
+                "Left-arm bowler",
+                "Spin bowler"
+            ],
+            "correct_answer": "Left-arm bowler"
+        },
+        {
+            "question": "What is the distance between the popping crease and the bowling crease?",
+            "options": [
+                "20 meters",
+                "22 yards",
+                "25 feet"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "How many runs does a batsman score if he hits the ball and it reaches the boundary without bouncing?",
+            "options": [
+                "4",
+                "6",
+                "2"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in Test cricket?",
+            "options": [
+                "Brian Lara",
+                "Sachin Tendulkar",
+                "Matthew Hayden"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "Which country has won the most ICC Cricket World Cups?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What does LBW stand for in cricket?",
+            "options": [
+                "Long Boundary Win",
+                "Leg Before Wicket",
+                "Late Bound Wicket"
+            ],
+            "correct_answer": "Leg Before Wicket"
+        },
+        {
+            "question": "Which player has scored the most centuries in international cricket?",
+            "options": [
+                "Ricky Ponting",
+                "Virat Kohli",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest team score ever recorded in a One Day International (ODI) match?",
+            "options": [
+                "438 runs",
+                "400 runs",
+                "481 runs"
+            ],
+            "correct_answer": "481 runs"
+        },
+        {
+            "question": "In cricket, what is the term for a dismissal where the batsman is caught by a fielder without the ball bouncing?",
+            "options": [
+                "Run out",
+                "Stumped",
+                "Caught"
+            ],
+            "correct_answer": "Caught"
+        },
+        {
+            "question": "What do you call a delivery in cricket that bounces more than once before reaching the batsman?",
+            "options": [
+                "No ball",
+                "Wide",
+                "Dead ball"
+            ],
+            "correct_answer": "Dead ball"
+        },
+        {
+            "question": "Which country hosted the first ever International Test cricket match?",
+            "options": [
+                "England",
+                "Australia",
+                "South Africa"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term for a bowler taking five wickets in a single innings of a Test match?",
+            "options": [
+                "Century",
+                "Hat-trick",
+                "Five-wicket haul"
+            ],
+            "correct_answer": "Five-wicket haul"
+        },
+        {
+            "question": "How many stumps are there in a set of cricket wickets?",
+            "options": [
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "What is the maximum number of overs a bowler can bowl in a One Day International (ODI) match?",
+            "options": [
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "What is the term for a batsman being dismissed without scoring any runs?",
+            "options": [
+                "Duck",
+                "Goose",
+                "Swan"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which country won the first ever ICC T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the distance between the two sets of stumps in a cricket pitch?",
+            "options": [
+                "20 feet",
+                "22 yards",
+                "25 meters"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Shane Warne",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first Cricket World Cup in 1975?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "9",
+                "15"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which player has scored the most runs in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in a test match?",
+            "options": [
+                "400",
+                "375",
+                "350"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most number of Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the duration of a test match?",
+            "options": [
+                "5 days",
+                "4 days",
+                "3 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "Which player has taken the most wickets in international cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the duration of an ODI (One Day International) match?",
+            "options": [
+                "50 overs",
+                "40 overs",
+                "60 overs"
+            ],
+            "correct_answer": "50 overs"
+        },
+        {
+            "question": "Which player has scored the fastest century in international cricket?",
+            "options": [
+                "AB de Villiers",
+                "Shahid Afridi",
+                "Corey Anderson"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "Which country hosted the first ever Cricket World Cup?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "22 yards",
+                "20 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Which player has scored the most number of centuries in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the maximum number of overs allowed in a T20 International match?",
+            "options": [
+                "20 overs",
+                "10 overs",
+                "15 overs"
+            ],
+            "correct_answer": "20 overs"
+        },
+        {
+            "question": "Which player has the most number of sixes in international cricket?",
+            "options": [
+                "Shahid Afridi",
+                "Chris Gayle",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Shahid Afridi"
+        },
+        {
+            "question": "What is the length of a cricket boundary?",
+            "options": [
+                "70-80 meters",
+                "50-60 meters",
+                "90-100 meters"
+            ],
+            "correct_answer": "70-80 meters"
+        },
+        {
+            "question": "Which country is the current ICC Cricket World Cup champion?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "M.S. Dhoni"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which player has the highest individual score in T20 International cricket?",
+            "options": [
+                "Aaron Finch",
+                "Chris Gayle",
+                "Brendon McCullum"
+            ],
+            "correct_answer": "Aaron Finch"
+        },
+        {
+            "question": "What is the name of the governing body for international cricket?",
+            "options": [
+                "International Cricket Council (ICC)",
+                "Board of Control for Cricket in India (BCCI)",
+                "Cricket Australia (CA)"
+            ],
+            "correct_answer": "International Cricket Council (ICC)"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest individual score ever made in Test cricket?",
+            "options": [
+                "375",
+                "401",
+                "400"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "How many players from each team are allowed on the field at a time in a cricket match?",
+            "options": [
+                "9",
+                "11",
+                "13"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the distance between the popping crease and the stumps in cricket?",
+            "options": [
+                "20 yards",
+                "22 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "What is the highest score ever made by a team in an ODI cricket match?",
+            "options": [
+                "444",
+                "481",
+                "500"
+            ],
+            "correct_answer": "481"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Rohit Sharma",
+                "KL Rahul",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cup titles?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the maximum number of overs that can be bowled in a T20 cricket match?",
+            "options": [
+                "15",
+                "20",
+                "25"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Which player holds the record for the most international runs scored in cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first-ever ICC Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "West Indies",
+                "Australia"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used to describe a batsman being dismissed without scoring any runs?",
+            "options": [
+                "Golden duck",
+                "Silver duck",
+                "Bronze duck"
+            ],
+            "correct_answer": "Golden duck"
+        },
+        {
+            "question": "Which cricketer holds the record for the most number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the term used to describe a delivery that bounces twice before reaching the batsman?",
+            "options": [
+                "No-ball",
+                "Wide",
+                "Dead ball"
+            ],
+            "correct_answer": "Dead ball"
+        },
+        {
+            "question": "Which country has won the most number of ICC T20 World Cup titles?",
+            "options": [
+                "West Indies",
+                "India",
+                "Pakistan"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the duration of a typical lunch break during a Test cricket match?",
+            "options": [
+                "45 minutes",
+                "1 hour",
+                "1.5 hours"
+            ],
+            "correct_answer": "1 hour"
+        },
+        {
+            "question": "Which player holds the record for the most number of sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "AB de Villiers",
+                "Shahid Afridi"
+            ],
+            "correct_answer": "Shahid Afridi"
+        },
+        {
+            "question": "What is the term used to describe a dismissal where the batsman is out caught by the wicket-keeper?",
+            "options": [
+                "Stumped",
+                "Run out",
+                "Caught behind"
+            ],
+            "correct_answer": "Caught behind"
+        },
+        {
+            "question": "Which cricketer has scored the most number of centuries in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the width of the cricket pitch?",
+            "options": [
+                "8 feet",
+                "10 feet",
+                "12 feet"
+            ],
+            "correct_answer": "10 feet"
+        },
+        {
+            "question": "Which country's team is known as 'Black Caps'?",
+            "options": [
+                "England",
+                "New Zealand",
+                "South Africa"
+            ],
+            "correct_answer": "New Zealand"
+        },
+        {
+            "question": "Who is the highest run-scorer in the history of the Indian Premier League (IPL)?",
+            "options": [
+                "Virat Kohli",
+                "Suresh Raina",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "What is the object used by a batsman to hit the ball in cricket?",
+            "options": [
+                "Bat",
+                "Ball",
+                "Gloves"
+            ],
+            "correct_answer": "Bat"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "11",
+                "9",
+                "7"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the term used for the rectangular area where the game of cricket is played?",
+            "options": [
+                "Pitch",
+                "Field",
+                "Court"
+            ],
+            "correct_answer": "Pitch"
+        },
+        {
+            "question": "How many ways can a batsman be dismissed in cricket?",
+            "options": [
+                "10",
+                "8",
+                "12"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Which of the following is not a fielding position in cricket?",
+            "options": [
+                "Mid-off",
+                "Mid-stump",
+                "Long leg"
+            ],
+            "correct_answer": "Mid-stump"
+        },
+        {
+            "question": "What is the term used for scoring 100 runs in cricket by a batsman?",
+            "options": [
+                "Century",
+                "Half-century",
+                "Duck"
+            ],
+            "correct_answer": "Century"
+        },
+        {
+            "question": "What is the term used for a ball bowled by a spinner that turns significantly?",
+            "options": [
+                "Flipper",
+                "Leg-break",
+                "Googly"
+            ],
+            "correct_answer": "Leg-break"
+        },
+        {
+            "question": "What is the term used when a bowler takes three wickets in three consecutive balls?",
+            "options": [
+                "Hattrick",
+                "Stump-out",
+                "Caught-out"
+            ],
+            "correct_answer": "Hattrick"
+        },
+        {
+            "question": "What is the term used for when a team is all out and no batsman is left to continue?",
+            "options": [
+                "Innings",
+                "Over",
+                "Wicket"
+            ],
+            "correct_answer": "Innings"
+        },
+        {
+            "question": "What is the term used for the area behind the stumps where the wicketkeeper stands?",
+            "options": [
+                "Slips",
+                "Gully",
+                "Silly point"
+            ],
+            "correct_answer": "Slips"
+        },
+        {
+            "question": "What is the term used for when a bowler throws an illegal delivery in cricket?",
+            "options": [
+                "Wide",
+                "No ball",
+                "Dead ball"
+            ],
+            "correct_answer": "No ball"
+        },
+        {
+            "question": "What is the term used for the action of a bowler delivering the ball to the batsman?",
+            "options": [
+                "Throwing",
+                "Hitting",
+                "Bowling"
+            ],
+            "correct_answer": "Bowling"
+        },
+        {
+            "question": "What is the term used for the action of a fielder catching the ball before it touches the ground?",
+            "options": [
+                "Run out",
+                "Stump out",
+                "Caught out"
+            ],
+            "correct_answer": "Caught out"
+        },
+        {
+            "question": "What is the term used for the situation where the scores of two teams are equal at the end of a match?",
+            "options": [
+                "Tie",
+                "Draw",
+                "Win"
+            ],
+            "correct_answer": "Tie"
+        },
+        {
+            "question": "What is the term used for the total number of runs scored by a team in a match?",
+            "options": [
+                "Out",
+                "Runs",
+                "Score"
+            ],
+            "correct_answer": "Score"
+        },
+        {
+            "question": "What is the term used for the position where a batsman stands to face the bowler?",
+            "options": [
+                "Slip",
+                "Wicket",
+                "Crease"
+            ],
+            "correct_answer": "Crease"
+        },
+        {
+            "question": "What is the term used for when a batsman is declared out without scoring any runs?",
+            "options": [
+                "Duck",
+                "Run",
+                "Boundary"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "What is the term used for the line that marks the boundary of the playing area in cricket?",
+            "options": [
+                "Out line",
+                "Boundary line",
+                "Crease line"
+            ],
+            "correct_answer": "Boundary line"
+        },
+        {
+            "question": "What is the term used for a shot in cricket where the ball is hit over the boundary without touching the ground?",
+            "options": [
+                "Six",
+                "Four",
+                "Single"
+            ],
+            "correct_answer": "Six"
+        },
+        {
+            "question": "What is the term used for the action of a batsman running from one end of the pitch to the other?",
+            "options": [
+                "Boundary",
+                "Run",
+                "Stump"
+            ],
+            "correct_answer": "Run"
+        },
+        {
+            "question": "Who is known as the 'Master Blaster'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ever T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the maximum number of overs in a T20 cricket match?",
+            "options": [
+                "50",
+                "20",
+                "10"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Who has scored the most runs in Test cricket?",
+            "options": [
+                "Ricky Ponting",
+                "Sachin Tendulkar",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "375",
+                "400",
+                "501"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has the highest number of ODI wins?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Who is the captain of the Indian cricket team?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "MS Dhoni"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country hosted the first ever Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the circumference of a cricket ball?",
+            "options": [
+                "8.8 to 9.0 inches",
+                "10.0 to 10.5 inches",
+                "5.5 to 5.75 inches"
+            ],
+            "correct_answer": "8.8 to 9.0 inches"
+        },
+        {
+            "question": "Who was the first cricketer to score a double century in One Day Internationals?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virender Sehwag",
+                "Martin Guptill"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which of the following is NOT a cricketing shot?",
+            "options": [
+                "Cover drive",
+                "Pull shot",
+                "Slam dunk"
+            ],
+            "correct_answer": "Slam dunk"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the Ashes series?",
+            "options": [
+                "The Ashes Trophy",
+                "The Urn",
+                "The Cricket Cup"
+            ],
+            "correct_answer": "The Ashes Trophy"
+        },
+        {
+            "question": "Which country won the first ever ICC Champions Trophy in 1998?",
+            "options": [
+                "South Africa",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "South Africa"
+        },
+        {
+            "question": "What is the distance between the popping crease and the stumps in cricket?",
+            "options": [
+                "22 yards",
+                "20 yards",
+                "18 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Who is the highest wicket-taker in ODI cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Wasim Akram",
+                "Glenn McGrath"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which player has hit the most sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "Shahid Afridi",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "In which year was the Decision Review System (DRS) first introduced in cricket?",
+            "options": [
+                "2008",
+                "2009",
+                "2010"
+            ],
+            "correct_answer": "2008"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "22 yards",
+                "20 yards",
+                "18 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Who is considered the 'Father of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "W.G. Grace"
+            ],
+            "correct_answer": "W.G. Grace"
+        },
+        {
+            "question": "Which country won the first-ever Cricket World Cup in 1975?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "9"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which player has scored the highest number of runs in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) cricket match?",
+            "options": [
+                "50",
+                "40",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cup titles?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "20 yards",
+                "22 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Which cricketer has taken the most number of wickets in international cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which country has won the most number of ICC World T20 titles?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used for a batsman being declared out without scoring any runs?",
+            "options": [
+                "Duck",
+                "Zero",
+                "Not Out"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which player has hit the most number of centuries in international cricket?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "Steve Smith"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "How many innings are there in a Test cricket match?",
+            "options": [
+                "2",
+                "4",
+                "6"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Which country has the highest team total in Test cricket?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Rohit Sharma",
+                "Virat Kohli",
+                "Shikhar Dhawan"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "What is the term used for a bowler taking three wickets in consecutive deliveries?",
+            "options": [
+                "Hattrick",
+                "Trick",
+                "Three-wicket haul"
+            ],
+            "correct_answer": "Hattrick"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy titles?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the maximum duration of a Test cricket match?",
+            "options": [
+                "3 days",
+                "4 days",
+                "5 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "Which player has scored the fastest century in One Day International (ODI) cricket?",
+            "options": [
+                "AB de Villiers",
+                "Chris Gayle",
+                "Shahid Afridi"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "Which city is known as the 'Mecca of Cricket'?",
+            "options": [
+                "Mumbai",
+                "London",
+                "Melbourne"
+            ],
+            "correct_answer": "London"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in Test cricket?",
+            "options": [
+                "Kumar Sangakkara",
+                "Matthew Hayden",
+                "Brian Lara"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "Who won the ICC Cricket World Cup in 2019?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Which country has won the most number of Cricket World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Which cricketer has scored the most number of runs in Test cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Jacques Kallis"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most number of T20 World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "MS Dhoni"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which stadium is known as 'The Home of Cricket'?",
+            "options": [
+                "MCG",
+                "Lords",
+                "Eden Gardens"
+            ],
+            "correct_answer": "Lords"
+        },
+        {
+            "question": "Which country has won the most number of Ashes series?",
+            "options": [
+                "England",
+                "Australia",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in an ODI cricket match?",
+            "options": [
+                "Rohit Sharma",
+                "Virender Sehwag",
+                "Martin Guptill"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in international cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Who was the first cricketer to score a double century in a single ODI innings?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virender Sehwag",
+                "Chris Gayle"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy tournaments?",
+            "options": [
+                "India",
+                "Australia",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who has the record for the fastest century in T20 international cricket?",
+            "options": [
+                "Jos Buttler",
+                "Aaron Finch",
+                "Chris Gayle"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "Which cricketer has hit the most number of sixes in international cricket?",
+            "options": [
+                "AB de Villiers",
+                "Chris Gayle",
+                "Shahid Afridi"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "Who has scored the most number of centuries in Test cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Steve Smith"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ever ICC T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who is the highest wicket-taker for India in Test cricket?",
+            "options": [
+                "Anil Kumble",
+                "Kapil Dev",
+                "Ravichandran Ashwin"
+            ],
+            "correct_answer": "Anil Kumble"
+        },
+        {
+            "question": "Who has won the most number of ICC Cricketer of the Year awards?",
+            "options": [
+                "Virat Kohli",
+                "Steve Smith",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country has won the most number of Women's Cricket World Cups?",
+            "options": [
+                "Australia",
+                "England",
+                "New Zealand"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Who is the highest run-scorer in Women's T20 International cricket?",
+            "options": [
+                "Mithali Raj",
+                "Suzie Bates",
+                "Charlotte Edwards"
+            ],
+            "correct_answer": "Mithali Raj"
+        },
+        {
+            "question": "Which bowler has taken the most number of wickets in Women's ODI cricket?",
+            "options": [
+                "Jhulan Goswami",
+                "Katherine Brunt",
+                "Ellyse Perry"
+            ],
+            "correct_answer": "Jhulan Goswami"
+        },
+        {
+            "question": "Who is considered the greatest cricketer of all time?",
+            "options": [
+                "Sachin Tendulkar",
+                "Shane Warne",
+                "Don Bradman"
+            ],
+            "correct_answer": "Don Bradman"
+        },
+        {
+            "question": "In cricket, how many runs can be scored in a single delivery?",
+            "options": [
+                "1",
+                "2",
+                "6"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score ever recorded in Test cricket?",
+            "options": [
+                "375",
+                "400",
+                "501"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Which cricket team has won the most number of Ashes series?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Who holds the record for hitting the most number of sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "Shahid Afridi",
+                "Brendon McCullum"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "What does LBW stand for in cricket?",
+            "options": [
+                "Leg Before Wicket",
+                "Last Ball Wicket",
+                "Long Between Wickets"
+            ],
+            "correct_answer": "Leg Before Wicket"
+        },
+        {
+            "question": "Which cricket ground is known as 'The Home of Cricket'?",
+            "options": [
+                "Lord's Cricket Ground",
+                "Eden Gardens",
+                "MCG"
+            ],
+            "correct_answer": "Lord's Cricket Ground"
+        },
+        {
+            "question": "What is the minimum number of players required from each team to start a cricket match?",
             "options": [
                 "8",
                 "9",
@@ -145,22 +2458,2110 @@
             "correct_answer": "8"
         },
         {
-            "question": "\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b93\u0bb0\u0bb5\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0ba4\u0bb2\u0bbe \u0bae\u0bc1\u0bb0\u0bb3\u0bbf\u0ba4\u0bb0\u0ba9\u0bcd \u0bae\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0b95\u0ba9\u0bbe\u0b95 \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bbf\u0baf \u0ba4\u0bca\u0b9f\u0b95\u0bcd\u0b95 \u0b90\u0b9f\u0bbf \u0b8e\u0ba4\u0bc1?",
+            "question": "Which batting technique involves the batsman gripping the bat with only one hand?",
             "options": [
-                "\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bcd",
-                "\u0bb5\u0bbf\u0b95\u0bcd\u0ba9\u0bc7\u0bb7\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bcd",
-                "\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0bc7\u0b9a\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bcd"
+                "Switch-hit",
+                "Reverse sweep",
+                "One-handed shot"
             ],
-            "correct_answer": "\u0ba4\u0bbf\u0ba9\u0bc7\u0bb7\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bbf\u0b95\u0bcd"
+            "correct_answer": "One-handed shot"
         },
         {
-            "question": "\u0b90\u0baa\u0bbf\u0b8e\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0b85\u0ba3\u0bbf \u0baf\u0bbe\u0ba4\u0bc1?",
+            "question": "Who was the first cricketer to score a double century in Test cricket?",
             "options": [
-                "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bcd",
-                "\u0bae\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd\u0bb8\u0bcd",
-                "\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbe \u0b95\u0bbf\u0b9f\u0bbe\u0bb0\u0bbf\u0b9f\u0bcd"
+                "Don Bradman",
+                "Wally Hammond",
+                "Len Hutton"
             ],
-            "correct_answer": "\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbe \u0b95\u0bbf\u0b9f\u0bbe\u0bb0\u0bbf\u0b9f\u0bcd"
+            "correct_answer": "Wally Hammond"
+        },
+        {
+            "question": "What is the standard length of a cricket pitch?",
+            "options": [
+                "20 yards",
+                "22 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Which cricketer has the highest individual score in a One Day International (ODI) match?",
+            "options": [
+                "Rohit Sharma",
+                "Virender Sehwag",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "What is the term used for a delivery that goes over the shoulder height of the batsman?",
+            "options": [
+                "Wide",
+                "No ball",
+                "Bouncer"
+            ],
+            "correct_answer": "Bouncer"
+        },
+        {
+            "question": "Which country hosted the first ever Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "MS Dhoni"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "What is the term used for a bowler taking three wickets with three consecutive deliveries?",
+            "options": [
+                "Hat-trick",
+                "Double hat-trick",
+                "Triple wicket"
+            ],
+            "correct_answer": "Hat-trick"
+        },
+        {
+            "question": "What is the duration of a Test match in cricket?",
+            "options": [
+                "4 days",
+                "5 days",
+                "6 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "Which cricketer has scored the most number of runs in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the name of the international governing body for cricket?",
+            "options": [
+                "ICC",
+                "BCCI",
+                "ECB"
+            ],
+            "correct_answer": "ICC"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which country won the first cricket World Cup?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) cricket match?",
+            "options": [
+                "50",
+                "40",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "What is the maximum number of overs in a Twenty20 (T20) cricket match?",
+            "options": [
+                "20",
+                "10",
+                "30"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in Test cricket?",
+            "options": [
+                "Brian Lara",
+                "Sachin Tendulkar",
+                "Matthew Hayden"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "Which country has won the most number of cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is it called when a bowler takes three wickets in three consecutive balls?",
+            "options": [
+                "Hat-trick",
+                "Stumping",
+                "Run out"
+            ],
+            "correct_answer": "Hat-trick"
+        },
+        {
+            "question": "Which city is known as the 'Mecca of Cricket'?",
+            "options": [
+                "London",
+                "Melbourne",
+                "Mumbai"
+            ],
+            "correct_answer": "London"
+        },
+        {
+            "question": "What is the highest individual score in an ODI cricket match?",
+            "options": [
+                "264",
+                "200",
+                "175"
+            ],
+            "correct_answer": "264"
+        },
+        {
+            "question": "Who is the leading run-scorer in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the distance between the popping crease and the bowling crease in cricket?",
+            "options": [
+                "4 feet",
+                "2 feet",
+                "6 feet"
+            ],
+            "correct_answer": "4 feet"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Which player has scored the most number of centuries in Test cricket?",
+            "options": [
+                "Kumar Sangakkara",
+                "Jacques Kallis",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Ricky Ponting"
+        },
+        {
+            "question": "What is the term used for a batsman getting out without scoring any runs in cricket?",
+            "options": [
+                "Duck",
+                "Zero",
+                "Nil"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which country was the winner of the first-ever T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the highest team score in Test cricket?",
+            "options": [
+                "952/6",
+                "903/7",
+                "876/7"
+            ],
+            "correct_answer": "952/6"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which player has scored the highest individual score in international T20 cricket?",
+            "options": [
+                "Aaron Finch",
+                "Chris Gayle",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Aaron Finch"
+        },
+        {
+            "question": "What is the term used for a bowler taking two wickets in two consecutive balls?",
+            "options": [
+                "Double wicket",
+                "Double play",
+                "Double trouble"
+            ],
+            "correct_answer": "Double wicket"
+        },
+        {
+            "question": "Who is considered the greatest batsman of all time?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest individual score in Test cricket?",
+            "options": [
+                "375",
+                "400",
+                "501"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most ICC Cricket World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the circumference of a cricket ball?",
+            "options": [
+                "22 cm",
+                "24 cm",
+                "26 cm"
+            ],
+            "correct_answer": "22 cm"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team in Test matches?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "Ajinkya Rahane"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country hosted the first ever Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who won the first ever ICC T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "12",
+                "15"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "How many runs are awarded for hitting the ball over the boundary without bouncing?",
+            "options": [
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy titles?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the distance between the popping crease and the stumps in cricket?",
+            "options": [
+                "20.12 meters",
+                "22.22 meters",
+                "24.32 meters"
+            ],
+            "correct_answer": "20.12 meters"
+        },
+        {
+            "question": "Who was the first cricketer to score 10,000 runs in Test matches?",
+            "options": [
+                "Sunil Gavaskar",
+                "Ricky Ponting",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Sunil Gavaskar"
+        },
+        {
+            "question": "What is the maximum number of overs per innings in a One Day International (ODI) match?",
+            "options": [
+                "40",
+                "45",
+                "50"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Which bowler has taken the most number of wickets in Test cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the height of the cricket stumps?",
+            "options": [
+                "20 inches",
+                "22 inches",
+                "24 inches"
+            ],
+            "correct_answer": "28 inches"
+        },
+        {
+            "question": "Who was the first cricketer to score a double century in One Day International (ODI) cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virender Sehwag",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the duration of a Test match?",
+            "options": [
+                "4 days",
+                "5 days",
+                "6 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "Which country won the first ever ICC Women's T20 World Cup in 2009?",
+            "options": [
+                "Australia",
+                "England",
+                "New Zealand"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the length of the cricket pitch?",
+            "options": [
+                "20 yards",
+                "22 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Who holds the record for the most number of centuries in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest individual score ever scored in a Test cricket match?",
+            "options": [
+                "375",
+                "400",
+                "500"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "10",
+                "11",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the highest individual score ever scored in a One Day International (ODI) cricket match?",
+            "options": [
+                "200",
+                "250",
+                "300"
+            ],
+            "correct_answer": "264"
+        },
+        {
+            "question": "What is the term used for the area on the cricket ground in front of the batsman?",
+            "options": [
+                "Field",
+                "Pitch",
+                "Boundary"
+            ],
+            "correct_answer": "Pitch"
+        },
+        {
+            "question": "What is the term used for a batsman getting out without scoring any runs?",
+            "options": [
+                "Duck",
+                "Zero",
+                "Goose egg"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "What type of cricket match is limited to a fixed number of overs per side?",
+            "options": [
+                "Test match",
+                "T20 match",
+                "One Day International (ODI) match"
+            ],
+            "correct_answer": "T20 match"
+        },
+        {
+            "question": "Which country won the first ever Cricket World Cup?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "In cricket, what is the maximum number of overs a bowler can bowl in a T20 match?",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Which country has won the most T20 World Cups?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used for a ball that is bowled and passes the batsman without making any contact?",
+            "options": [
+                "Dot ball",
+                "No ball",
+                "Wide ball"
+            ],
+            "correct_answer": "Dot ball"
+        },
+        {
+            "question": "How many bails are there on the stumps in a game of cricket?",
+            "options": [
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "question": "Which player has scored the most runs in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the term used for the practice of a fielding team intentionally delaying the game to waste time?",
+            "options": [
+                "Duckworth-Lewis method",
+                "Chucking",
+                "Time wasting"
+            ],
+            "correct_answer": "Time wasting"
+        },
+        {
+            "question": "What is the term used for the act of a bowler deliberately throwing the ball with a bent arm?",
+            "options": [
+                "Bowling",
+                "Throwing",
+                "Chuck"
+            ],
+            "correct_answer": "Throwing"
+        },
+        {
+            "question": "What is the term used for a delivery that bounces before it reaches the batsman?",
+            "options": [
+                "No ball",
+                "Wide ball",
+                "Bouncer"
+            ],
+            "correct_answer": "Bouncer"
+        },
+        {
+            "question": "What is the term used for a delivery that swings in the air towards the batsman?",
+            "options": [
+                "Yorker",
+                "Inswinger",
+                "Outswinger"
+            ],
+            "correct_answer": "Inswinger"
+        },
+        {
+            "question": "Which country has won the most Ashes series?",
+            "options": [
+                "Australia",
+                "England",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used for a batsman scoring 100 runs in a single innings?",
+            "options": [
+                "Half-century",
+                "Double century",
+                "Century"
+            ],
+            "correct_answer": "Century"
+        },
+        {
+            "question": "What is the term used for a match that ends without a result due to bad weather or other circumstances?",
+            "options": [
+                "Draw",
+                "Catch",
+                "Pull"
+            ],
+            "correct_answer": "Draw"
+        },
+        {
+            "question": "Who is known as the 'Master Blaster'?",
+            "options": [
+                "Rahul Dravid",
+                "Virat Kohli",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest individual score ever made in Test cricket?",
+            "options": [
+                "300",
+                "375",
+                "400"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What does LBW stand for in cricket?",
+            "options": [
+                "Leg Before Wicket",
+                "Leg Bye Wicket",
+                "Late Boundary Wicket"
+            ],
+            "correct_answer": "Leg Before Wicket"
+        },
+        {
+            "question": "Which format of cricket is the shortest?",
+            "options": [
+                "Test cricket",
+                "ODI cricket",
+                "T20 cricket"
+            ],
+            "correct_answer": "T20 cricket"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Rohit Sharma",
+                "KL Rahul",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "11",
+                "9",
+                "12"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which country has won the most ICC Champions Trophy tournaments?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Which player has scored the most international centuries?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Steve Smith"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the highest T20 individual score ever made?",
+            "options": [
+                "156",
+                "175",
+                "200"
+            ],
+            "correct_answer": "175"
+        },
+        {
+            "question": "Which country has won the most ICC Women's World Cup tournaments?",
+            "options": [
+                "Australia",
+                "England",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is Duckworth-Lewis Method used for in cricket?",
+            "options": [
+                "Player evaluation",
+                "Weather interruptions",
+                "Umpire decisions"
+            ],
+            "correct_answer": "Weather interruptions"
+        },
+        {
+            "question": "Who holds the record for the fastest century in One Day Internationals?",
+            "options": [
+                "Viv Richards",
+                "AB de Villiers",
+                "Chris Gayle"
+            ],
+            "correct_answer": "AB de Villiers"
+        },
+        {
+            "question": "What is the distance between the popping crease and the stumps in cricket?",
+            "options": [
+                "18 yards",
+                "20 yards",
+                "22 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Which player has the most career runs in Test cricket?",
+            "options": [
+                "Ricky Ponting",
+                "Sunil Gavaskar",
+                "Sachin Tendulkar"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Who is the only player to have taken 10 wickets in a single Test innings?",
+            "options": [
+                "Jim Laker",
+                "Anil Kumble",
+                "Shane Warne"
+            ],
+            "correct_answer": "Jim Laker"
+        },
+        {
+            "question": "Which country hosted the first ever Cricket World Cup in 1975?",
+            "options": [
+                "England",
+                "Australia",
+                "India"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who is the highest run-scorer in the history of ODI cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ever T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the total number of players in a cricket match including both teams?",
+            "options": [
+                "22",
+                "24",
+                "26"
+            ],
+            "correct_answer": "22"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Rahul Dravid",
+                "Sachin Tendulkar",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the ICC Cricket World Cup 2019?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "9",
+                "10",
+                "11"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "375",
+                "400",
+                "501"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which team has won the most number of ICC Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Sachin Tendulkar",
+                "Rohit Sharma",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "What is a 'googly' in cricket?",
+            "options": [
+                "A delivery that spins away from the batsman",
+                "A delivery that spins into the batsman",
+                "A delivery that bounces more than expected"
+            ],
+            "correct_answer": "A delivery that spins into the batsman"
+        },
+        {
+            "question": "Which country has won the most number of ICC Champions Trophy titles?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in One Day Internationals (ODIs)?",
+            "options": [
+                "Rohit Sharma",
+                "Sachin Tendulkar",
+                "Martin Guptill"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "What is the maximum number of overs a bowler can bowl in a One Day International (ODI) match?",
+            "options": [
+                "20",
+                "25",
+                "10"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Which player has scored the most number of runs in Test cricket?",
+            "options": [
+                "Ricky Ponting",
+                "Sachin Tendulkar",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the distance between the popping crease and the bowling crease in cricket?",
+            "options": [
+                "2 feet 6 inches",
+                "3 feet",
+                "4 feet"
+            ],
+            "correct_answer": "4 feet"
+        },
+        {
+            "question": "Which country is the founder of Test cricket?",
+            "options": [
+                "Australia",
+                "England",
+                "South Africa"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "Who holds the record for the fastest century in Test cricket?",
+            "options": [
+                "Viv Richards",
+                "Misbah-ul-Haq",
+                "Brendon McCullum"
+            ],
+            "correct_answer": "Brendon McCullum"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "22 yards",
+                "18 yards",
+                "20 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "Which player has taken the most number of wickets in One Day Internationals (ODIs)?",
+            "options": [
+                "Wasim Akram",
+                "Muttiah Muralitharan",
+                "Glenn McGrath"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the maximum number of overs a bowler can bowl in a Twenty20 International (T20I) match?",
+            "options": [
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Which country won the first ICC T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who is the leading run-scorer in Twenty20 International (T20I) cricket?",
+            "options": [
+                "Virat Kohli",
+                "Martin Guptill",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Martin Guptill"
+        },
+        {
+            "question": "What is the name of the highest governing body in international cricket?",
+            "options": [
+                "International Cricket Council",
+                "Board of Control for Cricket in India",
+                "Pakistan Cricket Board"
+            ],
+            "correct_answer": "International Cricket Council"
+        },
+        {
+            "question": "Which player has the highest individual score in Twenty20 International (T20I) cricket?",
+            "options": [
+                "Aaron Finch",
+                "Chris Gayle",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Aaron Finch"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Virat Kohli",
+                "Rahul Dravid"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ICC Cricket World Cup in 1975?",
+            "options": [
+                "Australia",
+                "West Indies",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "12",
+                "10"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) cricket match?",
+            "options": [
+                "50",
+                "40",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "What is the term used for a batsman being dismissed without scoring any runs?",
+            "options": [
+                "Duck",
+                "Zero",
+                "Out"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Who is the current captain of the Indian cricket team?",
+            "options": [
+                "Virat Kohli",
+                "Rohit Sharma",
+                "KL Rahul"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "In cricket, what is the term used for a dismissal where the bowler bowls the ball and hits the batsman's wicket?",
+            "options": [
+                "Bowled",
+                "Stumped",
+                "Run out"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "What is the maximum number of overs in a Twenty20 International (T20I) cricket match?",
+            "options": [
+                "20",
+                "10",
+                "15"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Which cricket player has scored the most runs in Test matches?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Alastair Cook"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the term used for a delivery in cricket that hits the batsman above the waist and is deemed illegal?",
+            "options": [
+                "No-ball",
+                "Wide",
+                "Bouncer"
+            ],
+            "correct_answer": "No-ball"
+        },
+        {
+            "question": "Who has scored the highest individual score in a One Day International (ODI) cricket match?",
+            "options": [
+                "Rohit Sharma",
+                "Virender Sehwag",
+                "Chris Gayle"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "Which cricket player has taken the most number of wickets in Test matches?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the term used for a batsman being dismissed without facing a ball?",
+            "options": [
+                "Timed out",
+                "Hit wicket",
+                "Retired hurt"
+            ],
+            "correct_answer": "Timed out"
+        },
+        {
+            "question": "Who was the first cricketer to score 10,000 runs in One Day Internationals (ODIs)?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most number of ICC World Twenty20 tournaments?",
+            "options": [
+                "West Indies",
+                "India",
+                "Pakistan"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the term used for a delivery in cricket that is bowled wide of the batsman and is deemed illegal?",
+            "options": [
+                "Wide",
+                "No-ball",
+                "Beamer"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Who is the highest run-scorer in the history of Test cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the term used for a dismissal in cricket where the batsman is caught by a fielder without the ball bouncing on the ground?",
+            "options": [
+                "Caught",
+                "Run out",
+                "LBW"
+            ],
+            "correct_answer": "Caught"
+        },
+        {
+            "question": "Who is the fastest bowler to achieve 100 wickets in One Day Internationals (ODIs)?",
+            "options": [
+                "Saqlain Mushtaq",
+                "Brett Lee",
+                "Mohammad Amir"
+            ],
+            "correct_answer": "Saqlain Mushtaq"
+        },
+        {
+            "question": "What is the term used for a batsman being dismissed by the bowler hitting the wicket directly without any assistance from a fielder?",
+            "options": [
+                "Bowled",
+                "Run out",
+                "Stumped"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "Which of the following is the national sport of England?",
+            "options": [
+                "Cricket",
+                "Football",
+                "Hockey"
+            ],
+            "correct_answer": "Cricket"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "9",
+                "10",
+                "11"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) cricket match?",
+            "options": [
+                "20",
+                "40",
+                "50"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the maximum number of allowed bouncers per over in Test cricket?",
+            "options": [
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "question": "Which player has scored the most runs in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first-ever T20 World Cup in 2007?",
+            "options": [
+                "India",
+                "Pakistan",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the cricket term for taking three wickets on three consecutive deliveries?",
+            "options": [
+                "Hat-trick",
+                "Stumping",
+                "Run out"
+            ],
+            "correct_answer": "Hat-trick"
+        },
+        {
+            "question": "Which country has won the most Ashes series in Test cricket?",
+            "options": [
+                "England",
+                "Australia",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the cricket term for a ball that is bowled without bouncing?",
+            "options": [
+                "Bouncer",
+                "Googly",
+                "Full-toss"
+            ],
+            "correct_answer": "Full-toss"
+        },
+        {
+            "question": "Which player has hit the most sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "Shahid Afridi",
+                "MS Dhoni"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "Which country has won the most ICC Champions Trophy tournaments?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the cricket term for an over that ends without any runs or wickets?",
+            "options": [
+                "Maiden",
+                "No ball",
+                "Wide"
+            ],
+            "correct_answer": "Maiden"
+        },
+        {
+            "question": "Which country has hosted the most ICC Cricket World Cups?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the cricket term for a batsman being dismissed without scoring any runs?",
+            "options": [
+                "Duck",
+                "Run out",
+                "Caught behind"
+            ],
+            "correct_answer": "Duck"
+        },
+        {
+            "question": "Which player has taken the most wickets in Test cricket?",
+            "options": [
+                "James Anderson",
+                "Anil Kumble",
+                "Muttiah Muralitharan"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "What is the cricket term for a delivery that is wide of the stumps?",
+            "options": [
+                "Googly",
+                "Yorker",
+                "Wide"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Which country has won the most ICC Women's Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the cricket term for a batsman being dismissed by the wicket-keeper without the ball touching the ground?",
+            "options": [
+                "Run out",
+                "Stumped",
+                "Caught"
+            ],
+            "correct_answer": "Stumped"
+        },
+        {
+            "question": "Which player has scored the highest individual score in Test cricket?",
+            "options": [
+                "Brian Lara",
+                "Sachin Tendulkar",
+                "Matthew Hayden"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "What is the cricket term for a ball that lands outside the leg stump?",
+            "options": [
+                "No ball",
+                "Leg bye",
+                "Wide"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Which of the following is NOT a dismissal method in cricket?",
+            "options": [
+                "Bowled",
+                "Catch",
+                "Pass"
+            ],
+            "correct_answer": "Pass"
+        },
+        {
+            "question": "Which country won the first Cricket World Cup in 1975?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "11",
+                "9",
+                "13"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "375",
+                "501",
+                "400"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "Australia",
+                "India",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the duration of a Test cricket match?",
+            "options": [
+                "5 days",
+                "1 day",
+                "3 days"
+            ],
+            "correct_answer": "5 days"
+        },
+        {
+            "question": "How many runs are awarded for hitting the ball over the boundary without bouncing?",
+            "options": [
+                "6",
+                "4",
+                "2"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "What does LBW stand for in cricket?",
+            "options": [
+                "Leg Before Wicket",
+                "Long Ball Wicket",
+                "Late Boundary Wicket"
+            ],
+            "correct_answer": "Leg Before Wicket"
+        },
+        {
+            "question": "Which cricketer has the most international runs in cricket history?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "In cricket, what is a hat-trick?",
+            "options": [
+                "Taking 3 wickets in 3 consecutive overs",
+                "Scoring 3 sixes in a row",
+                "Taking 3 catches in 3 consecutive overs"
+            ],
+            "correct_answer": "Taking 3 wickets in 3 consecutive overs"
+        },
+        {
+            "question": "What is the name of the cricket ball used in Test matches?",
+            "options": [
+                "Red ball",
+                "White ball",
+                "Pink ball"
+            ],
+            "correct_answer": "Red ball"
+        },
+        {
+            "question": "Which country won the ICC World Test Championship in 2021?",
+            "options": [
+                "New Zealand",
+                "India",
+                "Australia"
+            ],
+            "correct_answer": "New Zealand"
+        },
+        {
+            "question": "Which cricketer has the most centuries in Test cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Steve Smith",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "What is the name of the famous cricket ground at Lord's in London?",
+            "options": [
+                "The Oval",
+                "Headingley",
+                "Lord's Cricket Ground"
+            ],
+            "correct_answer": "Lord's Cricket Ground"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the Ashes series?",
+            "options": [
+                "Ashes Cup",
+                "Ashes Trophy",
+                "The Urn"
+            ],
+            "correct_answer": "The Urn"
+        },
+        {
+            "question": "Which cricketer has the most runs in a single Test innings?",
+            "options": [
+                "Brian Lara",
+                "Don Bradman",
+                "Matthew Hayden"
+            ],
+            "correct_answer": "Brian Lara"
+        },
+        {
+            "question": "What is the name of the cricket format with 50 overs per side?",
+            "options": [
+                "Test cricket",
+                "One Day International",
+                "Twenty20"
+            ],
+            "correct_answer": "One Day International"
+        },
+        {
+            "question": "Which country has won the most ICC Champions Trophy titles?",
+            "options": [
+                "India",
+                "Australia",
+                "South Africa"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who holds the record for the highest individual score in One Day International cricket?",
+            "options": [
+                "Rohit Sharma",
+                "Sachin Tendulkar",
+                "Martin Guptill"
+            ],
+            "correct_answer": "Rohit Sharma"
+        },
+        {
+            "question": "Which cricketer has the most sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "Shahid Afridi",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "What is the name of the position in cricket where a player stands behind the wicket to catch the ball?",
+            "options": [
+                "Bowler",
+                "Wicketkeeper",
+                "Fielder"
+            ],
+            "correct_answer": "Wicketkeeper"
+        },
+        {
+            "question": "What is the maximum number of players allowed in a cricket team?",
+            "options": [
+                "10",
+                "12",
+                "11"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "In cricket, what does LBW stand for?",
+            "options": [
+                "Leg Before Wicket",
+                "Last Bowler Wins",
+                "Long Ball Wicket"
+            ],
+            "correct_answer": "Leg Before Wicket"
+        },
+        {
+            "question": "What is the name of the international governing body for the sport of cricket?",
+            "options": [
+                "FIFA",
+                "ICC",
+                "IOC"
+            ],
+            "correct_answer": "ICC"
+        },
+        {
+            "question": "How many runs does a team score if one of their batsmen hits the ball outside the boundary without it touching the ground?",
+            "options": [
+                "4 runs",
+                "6 runs",
+                "2 runs"
+            ],
+            "correct_answer": "6 runs"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the ICC Cricket World Cup?",
+            "options": [
+                "Ashes",
+                "T20 World Cup Trophy",
+                "The Cricket World Cup Trophy"
+            ],
+            "correct_answer": "The Cricket World Cup Trophy"
+        },
+        {
+            "question": "Which country has won the most number of ICC Cricket World Cup tournaments?",
+            "options": [
+                "India",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "How many innings does each team get in a Test match?",
+            "options": [
+                "1 innings",
+                "2 innings",
+                "3 innings"
+            ],
+            "correct_answer": "2 innings"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "22 yards",
+                "20 meters",
+                "25 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "What is the name of the famous cricket stadium located in Mumbai, India?",
+            "options": [
+                "Eden Gardens",
+                "M. Chinnaswamy Stadium",
+                "Wankhede Stadium"
+            ],
+            "correct_answer": "Wankhede Stadium"
+        },
+        {
+            "question": "What is the name of the cricket format where each team plays only 20 overs?",
+            "options": [
+                "Test cricket",
+                "One Day International (ODI) cricket",
+                "Twenty20 (T20) cricket"
+            ],
+            "correct_answer": "Twenty20 (T20) cricket"
+        },
+        {
+            "question": "What is the name of the protective gear worn by a batsman to protect their legs from the ball?",
+            "options": [
+                "Helmet",
+                "Gloves",
+                "Pads"
+            ],
+            "correct_answer": "Pads"
+        },
+        {
+            "question": "What is the name of the cricket format where each team plays 50 overs?",
+            "options": [
+                "Test cricket",
+                "One Day International (ODI) cricket",
+                "Twenty20 (T20) cricket"
+            ],
+            "correct_answer": "One Day International (ODI) cricket"
+        },
+        {
+            "question": "Which country won the first ICC Cricket World Cup in 1975?",
+            "options": [
+                "Australia",
+                "England",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the name of the famous cricket rivalry between India and Pakistan?",
+            "options": [
+                "The Ashes",
+                "The Border-Gavaskar Trophy",
+                "The India-Pakistan Cricket Rivalry"
+            ],
+            "correct_answer": "The India-Pakistan Cricket Rivalry"
+        },
+        {
+            "question": "What is the name of the cricket governing body in India?",
+            "options": [
+                "BCCI",
+                "ICC",
+                "MCC"
+            ],
+            "correct_answer": "BCCI"
+        },
+        {
+            "question": "How many balls are bowled in an over in cricket?",
+            "options": [
+                "4 balls",
+                "5 balls",
+                "6 balls"
+            ],
+            "correct_answer": "6 balls"
+        },
+        {
+            "question": "What is the name of the famous cricket ground located in Kolkata, India?",
+            "options": [
+                "Wankhede Stadium",
+                "M. A. Chidambaram Stadium",
+                "Eden Gardens"
+            ],
+            "correct_answer": "Eden Gardens"
+        },
+        {
+            "question": "What is the highest individual score ever achieved by a batsman in Test cricket?",
+            "options": [
+                "375",
+                "501",
+                "400"
+            ],
+            "correct_answer": "501"
+        },
+        {
+            "question": "What is the name of the cricket format where each team plays multiple innings and the game can last up to 5 days?",
+            "options": [
+                "Test cricket",
+                "One Day International (ODI) cricket",
+                "Twenty20 (T20) cricket"
+            ],
+            "correct_answer": "Test cricket"
+        },
+        {
+            "question": "Who is the highest run-scorer in international cricket?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Kumar Sangakkara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cups?",
+            "options": [
+                "Australia",
+                "West Indies",
+                "India"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the highest individual score by a batsman in Test cricket?",
+            "options": [
+                "400",
+                "375",
+                "380"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Which player has taken the highest number of wickets in international cricket?",
+            "options": [
+                "Muttiah Muralitharan",
+                "Shane Warne",
+                "Anil Kumble"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which team has won the most ICC Champions Trophy tournaments?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the length of a cricket pitch?",
+            "options": [
+                "22 yards",
+                "20 yards",
+                "24 yards"
+            ],
+            "correct_answer": "22 yards"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "11",
+                "10",
+                "9"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which team is currently ranked number one in ICC Test rankings?",
+            "options": [
+                "India",
+                "New Zealand",
+                "Australia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "What is the maximum number of overs in a One Day International (ODI) match?",
+            "options": [
+                "50",
+                "40",
+                "45"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Who is known as the 'God of Cricket'?",
+            "options": [
+                "Sachin Tendulkar",
+                "Ricky Ponting",
+                "Brian Lara"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which country won the first ever Cricket World Cup in 1975?",
+            "options": [
+                "West Indies",
+                "Australia",
+                "England"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the highest team total in Test cricket?",
+            "options": [
+                "952/6",
+                "903/7",
+                "876/6"
+            ],
+            "correct_answer": "952/6"
+        },
+        {
+            "question": "Who has hit the most sixes in international cricket?",
+            "options": [
+                "Chris Gayle",
+                "Shahid Afridi",
+                "Rohit Sharma"
+            ],
+            "correct_answer": "Chris Gayle"
+        },
+        {
+            "question": "Which player has won the most number of ICC Cricketer of the Year awards?",
+            "options": [
+                "Kumar Sangakkara",
+                "Ricky Ponting",
+                "Virat Kohli"
+            ],
+            "correct_answer": "Virat Kohli"
+        },
+        {
+            "question": "Which country has won the most number of T20 World Cup tournaments?",
+            "options": [
+                "West Indies",
+                "India",
+                "Australia"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "Who is the only batsman to score more than 10,000 runs in ODIs?",
+            "options": [
+                "Sachin Tendulkar",
+                "Kumar Sangakkara",
+                "Ricky Ponting"
+            ],
+            "correct_answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Which player has the best bowling figures in a Test innings?",
+            "options": [
+                "Jim Laker",
+                "Anil Kumble",
+                "Shane Warne"
+            ],
+            "correct_answer": "Jim Laker"
+        },
+        {
+            "question": "Which country has won the most number of ICC Under-19 Cricket World Cup tournaments?",
+            "options": [
+                "India",
+                "Australia",
+                "Pakistan"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Who is the fastest bowler to reach 300 Test wickets?",
+            "options": [
+                "Dennis Lillee",
+                "Muttiah Muralitharan",
+                "Shaun Pollock"
+            ],
+            "correct_answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "How many innings are there in a Test match?",
+            "options": [
+                "4",
+                "2",
+                "5"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "What is the term used to describe a run scored without the batsmen hitting the ball?",
+            "options": [
+                "Run out",
+                "No ball",
+                "Bye"
+            ],
+            "correct_answer": "Bye"
+        },
+        {
+            "question": "How many players are there in a cricket team?",
+            "options": [
+                "9",
+                "10",
+                "11"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Which country won the first ever Cricket World Cup in 1975?",
+            "options": [
+                "Australia",
+                "India",
+                "West Indies"
+            ],
+            "correct_answer": "West Indies"
+        },
+        {
+            "question": "What is the maximum number of overs in a T20 cricket match?",
+            "options": [
+                "20",
+                "50",
+                "10"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "What is the term used to describe a batsman being dismissed without scoring any runs?",
+            "options": [
+                "No ball",
+                "Stumped",
+                "Golden duck"
+            ],
+            "correct_answer": "Golden duck"
+        },
+        {
+            "question": "Which country won the first ever Cricket World Cup for women in 1973?",
+            "options": [
+                "Australia",
+                "England",
+                "New Zealand"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term used to describe a delivery that goes outside the legal playing area?",
+            "options": [
+                "Wide",
+                "No ball",
+                "Leg bye"
+            ],
+            "correct_answer": "Wide"
+        },
+        {
+            "question": "Which country has won the most Cricket World Cup titles?",
+            "options": [
+                "India",
+                "Australia",
+                "West Indies"
+            ],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the term used to describe a dismissal where the bowler dismisses the batsman by hitting the stumps directly?",
+            "options": [
+                "Bowled",
+                "Caught",
+                "Run out"
+            ],
+            "correct_answer": "Bowled"
+        },
+        {
+            "question": "In cricket, what is the highest individual score a batsman can achieve in an over?",
+            "options": [
+                "6",
+                "4",
+                "1"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Which country is known as the 'Home of Cricket'?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term used when a batsman hits the ball over the boundary without bouncing?",
+            "options": [
+                "Run out",
+                "Boundary",
+                "No ball"
+            ],
+            "correct_answer": "Boundary"
+        },
+        {
+            "question": "Which of the following is NOT a cricket format?",
+            "options": [
+                "Test",
+                "IPL",
+                "ODI"
+            ],
+            "correct_answer": "IPL"
+        },
+        {
+            "question": "What is the term used to describe the area of the field where the batsmen run between the wickets?",
+            "options": [
+                "Infield",
+                "Outfield",
+                "Crease"
+            ],
+            "correct_answer": "Crease"
+        },
+        {
+            "question": "Which country has the record for the highest ever team score in Test cricket?",
+            "options": [
+                "India",
+                "Sri Lanka",
+                "Australia"
+            ],
+            "correct_answer": "Sri Lanka"
+        },
+        {
+            "question": "What is the term used to describe a dismissal where the batsman is caught by a fielder without the ball bouncing?",
+            "options": [
+                "Stumped",
+                "Run out",
+                "Caught"
+            ],
+            "correct_answer": "Caught"
+        },
+        {
+            "question": "Which country won the first ever ICC Champions Trophy in 1998?",
+            "options": [
+                "Australia",
+                "India",
+                "South Africa"
+            ],
+            "correct_answer": "South Africa"
+        },
+        {
+            "question": "What is the term used to describe a delivery that hits the batsman's body without hitting the bat?",
+            "options": [
+                "No ball",
+                "Leg bye",
+                "Bodyline"
+            ],
+            "correct_answer": "Bodyline"
+        },
+        {
+            "question": "Which country won the most recent ICC Cricket World Cup in 2019?",
+            "options": [
+                "India",
+                "England",
+                "Australia"
+            ],
+            "correct_answer": "England"
+        },
+        {
+            "question": "What is the term used to describe a dismissal where the batsman is forced to leave the field due to injury?",
+            "options": [
+                "Retired hurt",
+                "Run out",
+                "Stumped"
+            ],
+            "correct_answer": "Retired hurt"
+        },
+        {
+            "question": "Which country has the record for the highest team score in One Day Internationals (ODIs)?",
+            "options": [
+                "India",
+                "England",
+                "South Africa"
+            ],
+            "correct_answer": "England"
         }
     ]
 }

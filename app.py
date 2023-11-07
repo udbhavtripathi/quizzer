@@ -9,6 +9,7 @@ import concurrent.futures
 import re
 import json
 import pandas as pd
+from datetime import datetime
 
 from helper_functions.quiz_maker import qanda_maker
 from dotenv import load_dotenv
@@ -139,10 +140,15 @@ def main():
         data['topic_name'] = topic_name
         data['language'] = language
         data['level'] = level_dropdown
-
-
-        # if st.button('Save CSV file'):
-    
+        # Add a new column "unique_id" to the data dictionary
+        data['unique_id'] = [f"{data['topic_name'][i]}_{data['language'][i]}_{data['level'][i]}_{i + 1}" for i in range(len(data['topic_name']))]
+        data['active_flag'] = 1
+        data['added_ts'] = pd.to_datetime(datetime.now())
+        data['added_by'] = 'udbhav'
+        data['last_modified_ts'] =  pd.to_datetime(datetime.now())
+        data['last_modified_by'] = 'udbhav'
+        data['country'] = 'India'
+        data['state'] = 'All'
         
         csv_data = data.to_csv(index=False)
 

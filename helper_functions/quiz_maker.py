@@ -11,8 +11,8 @@ import multiprocessing
 
 def qanda_maker(topic_name, language, level_dropdown):
     # llm = ChatOpenAI(temperature=0.9, request_timeout=300)
-    # llm = OpenAI(model_name = "gpt-3.5-turbo")
     llm= OpenAI(model_name = "gpt-3.5-turbo-16k", temperature = 0.9)
+    # llm = OpenAI(model_name = "gpt-4-1106-preview", temperature = 0.9)
 
     module_prompt = PromptTemplate(
     input_variables=["topic", "language", "level_dropdown"],
